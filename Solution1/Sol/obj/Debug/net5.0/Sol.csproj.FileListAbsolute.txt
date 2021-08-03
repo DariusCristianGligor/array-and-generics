@@ -1,0 +1,16 @@
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\Sol.exe
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\Sol.deps.json
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\Sol.runtimeconfig.json
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\Sol.runtimeconfig.dev.json
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\Sol.dll
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\ref\Sol.dll
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\bin\Debug\net5.0\Sol.pdb
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.AssemblyInfoInputs.cache
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.AssemblyInfo.cs
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.dll
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\ref\Sol.dll
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.pdb
+C:\Users\dariu\Desktop\IA\ArrayandGen\array-and-generics\Solution1\Sol\obj\Debug\net5.0\Sol.genruntimeconfig.cache
